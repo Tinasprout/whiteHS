@@ -118,7 +118,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CCard.cpp" />
+    <ClCompile Include="CCharacter.cpp" />
+    <ClCompile Include="CGameManager.cpp" />
+    <ClCompile Include="CHero.cpp" />
+    <ClCompile Include="CMinion.cpp" />
+    <ClCompile Include="CPlayer.cpp" />
+    <ClCompile Include="CSpell.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CCard.h" />
+    <ClInclude Include="CCharacter.h" />
+    <ClInclude Include="CGameManager.h" />
+    <ClInclude Include="CHero.h" />
+    <ClInclude Include="CMinion.h" />
+    <ClInclude Include="CPlayer.h" />
+    <ClInclude Include="CSpell.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="cards.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
