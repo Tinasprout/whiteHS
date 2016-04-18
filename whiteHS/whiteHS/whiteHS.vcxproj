@@ -138,6 +138,8 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="cards.txt" />
+    <Text Include="deck01.txt" />
+    <Text Include="deck02.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

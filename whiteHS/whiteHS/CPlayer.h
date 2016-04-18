@@ -13,6 +13,11 @@ class CPlayer
 	std::vector<CCard> vecHand;
 	std::vector<CMinion> vecField;
 public:
+	void AddCardToDeck(CCard card)
+	{
+		cout << card.GetCardName() << endl;
+		vecDeck.push_back(card);
+	}
 	CPlayer(void);
 	~CPlayer(void);
 };

@@ -64,6 +64,14 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="cards.txt" />
+    <Text Include="cards.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="deck01.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="deck02.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>

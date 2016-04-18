@@ -1,2 +1,3 @@
-M/3/5/1/Lava Rager////
-M/1/2/1/CorruptedNoum//DeathRattle : Deal 2 damager to opponent hero/D:H:-2
+M/3/5/1/Lava Rager///
+M/1/2/1/CorruptedNoum//DeathRattle : Deal 2 damage to opponent hero/D:H:-2
+M/3/5/2/Ice Rager///
